@@ -1,5 +1,5 @@
 
-<p><img src="https://track.infyom.com/assets/img/logo-red-black.png"></p>
+<p><img src="[https://avatars.githubusercontent.com/u/104942643?v=4"></p>
 
 ## Hospital Management System
 
