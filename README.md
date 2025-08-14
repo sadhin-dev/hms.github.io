@@ -1,5 +1,6 @@
-
-<p><img src="[https://avatars.githubusercontent.com/u/104942643?v=4"></p>
+<center>
+    <p><img src="https://avatars.githubusercontent.com/u/104942643"></p>
+</center>
 
 ## Hospital Management System
 
